@@ -48,3 +48,5 @@ epam_response.json
 *.pem
 *.key
 credentials.json
+
+/company.json
