@@ -3,8 +3,6 @@ import fetch from 'node-fetch';
 
 const API_BASE = 'https://api.peviitor.ro/v1';
 
-let HAS_API = false;
-
 async function checkApiAvailability() {
   try {
     const res = await fetch(`${API_BASE}/scraper/jobs/?cif=13091574&rows=1`, {
@@ -16,13 +14,14 @@ async function checkApiAvailability() {
   }
 }
 
-let HAS_ANAF = false;
-
 async function checkAnafAvailability() {
   try {
-    const res = await fetch('https://demoanaf.ro/api/search?q=test', {
-      method: 'HEAD',
-      signal: AbortSignal.timeout(5000)
+    // Probe the official ANAF endpoint: the last link of the company-data fallback chain.
+    const res = await fetch('https://webservicesp.anaf.ro/api/PlatitorTvaRest/v9/tva', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify([{ cui: 5665609, data: new Date().toISOString().slice(0, 10) }]),
+      signal: AbortSignal.timeout(10000)
     });
     return res.ok;
   } catch {
@@ -48,11 +47,10 @@ import companyConfig from '../../scraper/config/company.js';
 const TEST_CIF = companyConfig.id;
 const TEST_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.company;
-const CAREER_BASE = 'https://careers.nttdata.ro';
 
-beforeAll(async () => {
-  [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
-}, 60000);
+// Top-level await: itIf*() is evaluated at collection time, before any beforeAll runs.
+const [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
+const CAREER_BASE = 'https://careers.nttdata.ro';
 
 describe('E2E: Full Scraping Pipeline', () => {
 

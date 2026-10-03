@@ -3,8 +3,6 @@ import fetch from 'node-fetch';
 
 const API_BASE = 'https://api.peviitor.ro/v1';
 
-let HAS_API = false;
-
 async function checkApiAvailability() {
   try {
     const res = await fetch(`${API_BASE}/scraper/jobs/?cif=${companyConfig.id}&rows=1`, {
@@ -16,13 +14,14 @@ async function checkApiAvailability() {
   }
 }
 
-let HAS_ANAF = false;
-
 async function checkAnafAvailability() {
   try {
-    const res = await fetch('https://demoanaf.ro/api/search?q=test', {
-      method: 'HEAD',
-      signal: AbortSignal.timeout(5000)
+    // Probe the official ANAF endpoint: the last link of the company-data fallback chain.
+    const res = await fetch('https://webservicesp.anaf.ro/api/PlatitorTvaRest/v9/tva', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify([{ cui: 5665609, data: new Date().toISOString().slice(0, 10) }]),
+      signal: AbortSignal.timeout(10000)
     });
     return res.ok;
   } catch {
@@ -49,9 +48,8 @@ const COMPANY_CIF = companyConfig.id;
 const COMPANY_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.company;
 
-beforeAll(async () => {
-  [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
-});
+// Top-level await: itIf*() is evaluated at collection time, before any beforeAll runs.
+const [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
 
 describe('Integration: API Workflow', () => {
 
@@ -99,12 +97,12 @@ describe('Integration: API Workflow', () => {
     }, 60000);
 
     itIfAnaf('should use cached data when API fails (getCompanyFromANAFWithFallback)', async () => {
-      const cached = { cui: 33159615, name: COMPANY_NAME };
+      const cached = { cui: +COMPANY_CIF, name: COMPANY_NAME };
 
       const data = await anaf.getCompanyFromANAFWithFallback(COMPANY_CIF, cached);
 
       expect(data).toBeDefined();
-      expect(data.cui).toBe(33159615);
+      expect(data.cui).toBe(+COMPANY_CIF);
     }, 15000);
   });
 
