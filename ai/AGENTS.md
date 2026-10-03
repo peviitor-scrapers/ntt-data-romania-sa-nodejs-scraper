@@ -4,7 +4,7 @@
 NTT DATA scraper for peviitor.ro (Node.js, ESM, Jest)
 
 ## This Repo Is a Derived Scraper
-This repo is a **derived scraper** based on the [EPAM template](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper).
+This repo is a **derived scraper** based on the [EPAM template](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper).
 
 When making changes:
 - **All company-specific identity lives in `scraper/config/company.json`** (id, company, brand, URLs, API params). Read from `scraper/config/company.js` in Node code, or via `jq` in workflows. Never hardcode in source files.
@@ -18,7 +18,7 @@ When polling a workflow run with `until [ "$(gh run view ID --json status -q .st
 
 **Always specify the repo explicitly:**
 ```bash
-gh run view <RUN_ID> --repo sebiboga/ntt-data-romania-sa-nodejs-scraper --json status -q .status
+gh run view <RUN_ID> --repo peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper --json status -q .status
 ```
 
 Before starting any `gh run watch` or polling loop in the background, sanity-check:

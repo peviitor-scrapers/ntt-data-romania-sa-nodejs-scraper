@@ -4,7 +4,7 @@ Thank you for your interest in contributing!
 
 ## This Repo Is a Derived Scraper
 
-This repo is a **derived scraper** based on the [EPAM template](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper) — the reference implementation for Node.js scrapers in the peviitor.ro ecosystem.
+This repo is a **derived scraper** based on the [EPAM template](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper) — the reference implementation for Node.js scrapers in the peviitor.ro ecosystem.
 
 ## Development Setup
 
@@ -15,7 +15,7 @@ npm test
 
 ## Reporting Issues
 
-Open a [GitHub Issue](https://github.com/sebiboga/ntt-data-romania-sa-nodejs-scraper/issues) with:
+Open a [GitHub Issue](https://github.com/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior

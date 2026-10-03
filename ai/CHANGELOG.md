@@ -4,7 +4,7 @@
 
 ### Added
 - Initial derived scraper for NTT DATA ROMANIA S.A. (CIF: 13091574)
-- Based on sebiboga/epam-systems-international-srl-nodejs-scraper template
+- Based on peviitor-scrapers/epam-systems-international-srl-nodejs-scraper template
 - Cheerio-based HTML scraping from careers.nttdata.ro (Taleo career portal)
 - ANOFM job search integration by CIF
 - Full test suite: unit, integration, e2e, consistency

@@ -4,7 +4,7 @@
 
 Extrage anunțurile de pe [NTT DATA Romania Careers](https://careers.nttdata.ro) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
 
-> **Derived scraper.** Acest repo este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper).
+> **Derived scraper.** Acest repo este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper).
 
 ## Identificare
 

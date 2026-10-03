@@ -1,20 +1,20 @@
-[![Oportunitati SI Cariere](https://github.com/sebiboga/ntt-data-romania-sa-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml/badge.svg)](https://github.com/sebiboga/ntt-data-romania-sa-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml)
-[![Automation Tests](https://github.com/sebiboga/ntt-data-romania-sa-nodejs-scraper/actions/workflows/automation-testing.yml/badge.svg)](https://github.com/sebiboga/ntt-data-romania-sa-nodejs-scraper/actions/workflows/automation-testing.yml)
-[![Version](https://img.shields.io/github/package-json/v/sebiboga/ntt-data-romania-sa-nodejs-scraper?label=version&color=blue)](CHANGELOG.md)
-[![Test Results](https://img.shields.io/badge/test--results-HTML-9b59b6)](https://sebiboga.github.io/ntt-data-romania-sa-nodejs-scraper/test-results/)
+[![Oportunitati SI Cariere](https://github.com/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml/badge.svg)](https://github.com/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml)
+[![Automation Tests](https://github.com/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/actions/workflows/automation-testing.yml/badge.svg)](https://github.com/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/actions/workflows/automation-testing.yml)
+[![Version](https://img.shields.io/github/package-json/v/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper?label=version&color=blue)](CHANGELOG.md)
+[![Test Results](https://img.shields.io/badge/test--results-HTML-9b59b6)](https://peviitor-scrapers.github.io/ntt-data-romania-sa-nodejs-scraper/test-results/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/javascript-ESM-F7DF1E?logo=javascript&logoColor=black)](https://ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/node-24-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpeviitor.ro&label=peviitor.ro)](https://peviitor.ro)
 [![API](https://img.shields.io/website?url=https%3A%2F%2Fapi.peviitor.ro%2F&label=api.peviitor.ro)](https://api.peviitor.ro/)
-[![GitHub Pages](https://img.shields.io/github/deployments/sebiboga/ntt-data-romania-sa-nodejs-scraper/github-pages?label=GitHub%20Pages)](https://sebiboga.github.io/ntt-data-romania-sa-nodejs-scraper/)
-[![Derived from](https://img.shields.io/badge/derived%20from-EPAM%20template-2ea44f)](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper)
+[![GitHub Pages](https://img.shields.io/github/deployments/peviitor-scrapers/ntt-data-romania-sa-nodejs-scraper/github-pages?label=GitHub%20Pages)](https://peviitor-scrapers.github.io/ntt-data-romania-sa-nodejs-scraper/)
+[![Derived from](https://img.shields.io/badge/derived%20from-EPAM%20template-2ea44f)](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper)
 
 # job_seeker_ro_spider — NTT DATA Romania Scraper
 
 **job_seeker_ro_spider** — un scraper pentru job-urile NTT DATA din România. Extrage anunțurile de pe [NTT DATA Romania Careers](https://careers.nttdata.ro) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
 
-> **🌱 Derived scraper.** Acest repo este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper).
+> **🌱 Derived scraper.** Acest repo este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper).
 
 ## Overview
 
