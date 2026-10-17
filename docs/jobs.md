@@ -10,15 +10,21 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.19-21 |
 | Website | [https://ro.nttdata.com](https://ro.nttdata.com) |
 | Careers | [https://ro.nttdata.com/career](https://ro.nttdata.com/career) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (89)
+## Current Job Listings (87)
 
-_Generated: 2026-10-16T10:59:20.005Z_
+_Generated: 2026-10-17T10:21:15.146Z_
 
-### Senior Java Backend Engineer | Kafka & AWS
+### Requirements Engineer (Sparta)
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Java-Backend-Engineer-Kafka-&-AWS/1448429333/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Java-Backend-Engineer-Kafka-&-AWS/1448429333/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Requirements-Engineer-%28Sparta%29/1428407533/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Requirements-Engineer-%28Sparta%29/1428407533/)
+- **Location:** România
+- **Status:** scraped
+
+### QA Engineer with German
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-German/1438451733/](https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-German/1438451733/)
 - **Location:** România
 - **Status:** scraped
 
@@ -28,22 +34,16 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** Brasov
 - **Status:** scraped
 
+### Senior Java Backend Engineer | Kafka & AWS
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Java-Backend-Engineer-Kafka-&-AWS/1448429333/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Java-Backend-Engineer-Kafka-&-AWS/1448429333/)
+- **Location:** România
+- **Status:** scraped
+
 ### FlowX.AI  Engineer
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-FlowX_AI-Engineer/1448437533/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-FlowX_AI-Engineer/1448437533/)
 - **Location:** România
-- **Status:** scraped
-
-### Senior Data Engineer (Google Cloud Platform)
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Data-Engineer-%28Google-Cloud-Platform%29/1437693433/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Data-Engineer-%28Google-Cloud-Platform%29/1437693433/)
-- **Location:** Brasov
-- **Status:** scraped
-
-### Data Platform Engineer with German (Microsoft SQL Server & BI)
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Data-Platform-Engineer-with-German-%28Microsoft-SQL-Server-&-BI%29/1437685033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Data-Platform-Engineer-with-German-%28Microsoft-SQL-Server-&-BI%29/1437685033/)
-- **Location:** Brasov
 - **Status:** scraped
 
 ### SAP  SuccesFactors Consultant Time Tracking & Compensation
@@ -52,27 +52,21 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### System Engineer
+### Data Platform Engineer with German (Microsoft SQL Server & BI)
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1448170033/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1448170033/)
-- **Location:** România
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Data-Platform-Engineer-with-German-%28Microsoft-SQL-Server-&-BI%29/1437685033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Data-Platform-Engineer-with-German-%28Microsoft-SQL-Server-&-BI%29/1437685033/)
+- **Location:** Brasov
 - **Status:** scraped
 
-### Aurosar Architect
+### Senior Data Engineer (Google Cloud Platform)
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-Aurosar-Architect/1448172833/](https://careers.nttdata.ro/nttdataromania/job/Remote-Aurosar-Architect/1448172833/)
-- **Location:** România
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Data-Engineer-%28Google-Cloud-Platform%29/1437693433/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Data-Engineer-%28Google-Cloud-Platform%29/1437693433/)
+- **Location:** Brasov
 - **Status:** scraped
 
 ### Autosar Software Architect
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Autosar-Software-Architect/1448172433/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Autosar-Software-Architect/1448172433/)
-- **Location:** România
-- **Status:** scraped
-
-### Sample Test Engineer-Automotive based in Craiova
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Sample-Test-Engineer-Automotive-based-in-Craiova/1448163633/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Sample-Test-Engineer-Automotive-based-in-Craiova/1448163633/)
 - **Location:** România
 - **Status:** scraped
 
@@ -88,15 +82,27 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Mechanical Design Engineer based in Timisoara
+### Sample Test Engineer-Automotive based in Craiova
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Mechanical-Design-Engineer-based-in-Timisoara/1448209633/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Mechanical-Design-Engineer-based-in-Timisoara/1448209633/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Sample-Test-Engineer-Automotive-based-in-Craiova/1448163633/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Sample-Test-Engineer-Automotive-based-in-Craiova/1448163633/)
 - **Location:** România
 - **Status:** scraped
 
-### Senior Data Engineer
+### Aurosar Architect
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Data-Engineer/1437262433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Data-Engineer/1437262433/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-Aurosar-Architect/1448172833/](https://careers.nttdata.ro/nttdataromania/job/Remote-Aurosar-Architect/1448172833/)
+- **Location:** România
+- **Status:** scraped
+
+### System Engineer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1448170033/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1448170033/)
+- **Location:** România
+- **Status:** scraped
+
+### Mechanical Design Engineer based in Timisoara
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Mechanical-Design-Engineer-based-in-Timisoara/1448209633/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Mechanical-Design-Engineer-based-in-Timisoara/1448209633/)
 - **Location:** România
 - **Status:** scraped
 
@@ -106,21 +112,21 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior Technical Software Architect
+### Senior Data Engineer
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Technical-Software-Architect/1447529533/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Technical-Software-Architect/1447529533/)
-- **Location:** România
-- **Status:** scraped
-
-### QA Automation Lead
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-QA-Automation-Lead/1447592833/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-QA-Automation-Lead/1447592833/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Data-Engineer/1437262433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Data-Engineer/1437262433/)
 - **Location:** România
 - **Status:** scraped
 
 ### QA Engineer with SQL/Database Testing
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-SQLDatabase-Testing/1447642233/](https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-SQLDatabase-Testing/1447642233/)
+- **Location:** România
+- **Status:** scraped
+
+### QA Automation Lead
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-QA-Automation-Lead/1447592833/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-QA-Automation-Lead/1447592833/)
 - **Location:** România
 - **Status:** scraped
 
@@ -136,6 +142,12 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
+### Senior Technical Software Architect
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Technical-Software-Architect/1447529533/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Technical-Software-Architect/1447529533/)
+- **Location:** România
+- **Status:** scraped
+
 ### Senior Backend Software Engineer with Kotlin
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Backend-Software-Engineer-with-Kotlin/1436745533/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Backend-Software-Engineer-with-Kotlin/1436745533/)
@@ -148,15 +160,15 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior Android Developer (with Kotlin)
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Android-Developer-%28with-Kotlin%29/1447166833/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Android-Developer-%28with-Kotlin%29/1447166833/)
-- **Location:** România
-- **Status:** scraped
-
 ### AI Engineer (Python)
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-AI-Engineer-%28Python%29/1447169833/](https://careers.nttdata.ro/nttdataromania/job/Cluj-AI-Engineer-%28Python%29/1447169833/)
+- **Location:** România
+- **Status:** scraped
+
+### Senior Android Developer (with Kotlin)
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Android-Developer-%28with-Kotlin%29/1447166833/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-Android-Developer-%28with-Kotlin%29/1447166833/)
 - **Location:** România
 - **Status:** scraped
 
@@ -172,12 +184,6 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Chief Security Officer
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Chief-Security-Officer/1426466433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Chief-Security-Officer/1426466433/)
-- **Location:** România
-- **Status:** scraped
-
 ### Hardware Design Engineer
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Hardware-Design-Engineer/1415956333/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Hardware-Design-Engineer/1415956333/)
@@ -187,6 +193,12 @@ _Generated: 2026-10-16T10:59:20.005Z_
 ### DevOps Engineer with GCP
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-DevOps-Engineer-with-GCP/1415595533/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-DevOps-Engineer-with-GCP/1415595533/)
+- **Location:** România
+- **Status:** scraped
+
+### Chief Security Officer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Chief-Security-Officer/1426466433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Chief-Security-Officer/1426466433/)
 - **Location:** România
 - **Status:** scraped
 
@@ -208,15 +220,15 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** Sibiu
 - **Status:** scraped
 
-### Salesforce B2B Commerce Cloud
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-B2B-Commerce-Cloud/1435153633/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-B2B-Commerce-Cloud/1435153633/)
-- **Location:** România
-- **Status:** scraped
-
 ### Project Manager - SAP SuccessFactors LMS & Qualtrics
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-Project-Manager-SAP-SuccessFactors-LMS-&-Qualtrics/1435108733/](https://careers.nttdata.ro/nttdataromania/job/Remote-Project-Manager-SAP-SuccessFactors-LMS-&-Qualtrics/1435108733/)
+- **Location:** România
+- **Status:** scraped
+
+### Salesforce B2B Commerce Cloud
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-B2B-Commerce-Cloud/1435153633/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-B2B-Commerce-Cloud/1435153633/)
 - **Location:** România
 - **Status:** scraped
 
@@ -262,21 +274,21 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
+### AUTOSAR Software Developer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-AUTOSAR-Software-Developer/1444468633/](https://careers.nttdata.ro/nttdataromania/job/Remote-AUTOSAR-Software-Developer/1444468633/)
+- **Location:** România
+- **Status:** scraped
+
 ### Middle Java Backend Developer - Spring Boot & Microservices
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-Middle-Java-Backend-Developer-Spring-Boot-&-Microservices/1444389733/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-Middle-Java-Backend-Developer-Spring-Boot-&-Microservices/1444389733/)
 - **Location:** România
 - **Status:** scraped
 
-### System Engineer
+### Senior Software Developer - Automotive Security
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1444464933/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-System-Engineer/1444464933/)
-- **Location:** România
-- **Status:** scraped
-
-### AUTOSAR Software Developer
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-AUTOSAR-Software-Developer/1444468633/](https://careers.nttdata.ro/nttdataromania/job/Remote-AUTOSAR-Software-Developer/1444468633/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Senior-Software-Developer-Automotive-Security/1444466033/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Senior-Software-Developer-Automotive-Security/1444466033/)
 - **Location:** România
 - **Status:** scraped
 
@@ -286,9 +298,15 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior Software Developer - Automotive Security
+### BID Specialist
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Timisoara-Senior-Software-Developer-Automotive-Security/1444466033/](https://careers.nttdata.ro/nttdataromania/job/Timisoara-Senior-Software-Developer-Automotive-Security/1444466033/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-BID-Specialist/1412881233/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-BID-Specialist/1412881233/)
+- **Location:** România
+- **Status:** scraped
+
+### Salesforce FSC Developer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-FSC-Developer/1402237333/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-FSC-Developer/1402237333/)
 - **Location:** România
 - **Status:** scraped
 
@@ -304,24 +322,6 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Salesforce FSC Developer
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-FSC-Developer/1402237333/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Salesforce-FSC-Developer/1402237333/)
-- **Location:** România
-- **Status:** scraped
-
-### BID Specialist
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-BID-Specialist/1412881233/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-BID-Specialist/1412881233/)
-- **Location:** România
-- **Status:** scraped
-
-### ServiceNow Technical Integration Consultant
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-Technical-Integration-Consultant/1412180433/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-Technical-Integration-Consultant/1412180433/)
-- **Location:** România
-- **Status:** scraped
-
 ### SAP Digital Cloud Architect Advisor with German
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Digital-Cloud-Architect-Advisor-with-German/1422858133/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Digital-Cloud-Architect-Advisor-with-German/1422858133/)
@@ -334,27 +334,33 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### ServiceNow Request/Catalog Consultant
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-RequestCatalog-Consultant/1412433233/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-RequestCatalog-Consultant/1412433233/)
-- **Location:** România
-- **Status:** scraped
-
 ### Senior SAP EWM Consultant
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-SAP-EWM-Consultant/1422931333/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-SAP-EWM-Consultant/1422931333/)
 - **Location:** România
 - **Status:** scraped
 
-### Business Functional Analyst
+### ServiceNow Request/Catalog Consultant
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Business-Functional-Analyst/1443828733/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Business-Functional-Analyst/1443828733/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-RequestCatalog-Consultant/1412433233/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-RequestCatalog-Consultant/1412433233/)
+- **Location:** România
+- **Status:** scraped
+
+### ServiceNow Technical Integration Consultant
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-Technical-Integration-Consultant/1412180433/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-ServiceNow-Technical-Integration-Consultant/1412180433/)
 - **Location:** România
 - **Status:** scraped
 
 ### Senior QA Automation Engineer (Selenium)
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Senior-QA-Automation-Engineer-%28Selenium%29/1443899333/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Senior-QA-Automation-Engineer-%28Selenium%29/1443899333/)
+- **Location:** România
+- **Status:** scraped
+
+### Business Functional Analyst
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Business-Functional-Analyst/1443828733/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Business-Functional-Analyst/1443828733/)
 - **Location:** România
 - **Status:** scraped
 
@@ -394,21 +400,15 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Java Developer with GraphQL
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Java-Developer-with-GraphQL/1442800233/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Java-Developer-with-GraphQL/1442800233/)
-- **Location:** România
-- **Status:** scraped
-
 ### Microsoft Fabric DataOps Engineer
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Microsoft-Fabric-DataOps-Engineer/1441985033/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Microsoft-Fabric-DataOps-Engineer/1441985033/)
 - **Location:** România
 - **Status:** scraped
 
-### SAP Data Migration Lead/Architect
+### Senior IAM Consultant
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Data-Migration-LeadArchitect/1420870033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Data-Migration-LeadArchitect/1420870033/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-IAM-Consultant/1431516433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-IAM-Consultant/1431516433/)
 - **Location:** România
 - **Status:** scraped
 
@@ -418,15 +418,15 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Threat Analyst
+### SAP Data Migration Lead/Architect
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-Threat-Analyst/1431515333/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-Threat-Analyst/1431515333/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Data-Migration-LeadArchitect/1420870033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Data-Migration-LeadArchitect/1420870033/)
 - **Location:** România
 - **Status:** scraped
 
-### Senior IAM Consultant
+### Threat Analyst
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-IAM-Consultant/1431516433/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-IAM-Consultant/1431516433/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-Threat-Analyst/1431515333/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-Threat-Analyst/1431515333/)
 - **Location:** România
 - **Status:** scraped
 
@@ -448,21 +448,9 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### SAP Basis Administrator
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Basis-Administrator/1441112533/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Basis-Administrator/1441112533/)
-- **Location:** România
-- **Status:** scraped
-
 ### Senior AI Full-Stack Engineer (Angular&Python)
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Angular&Python%29/1441104333/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Angular&Python%29/1441104333/)
-- **Location:** România
-- **Status:** scraped
-
-### SAP BASIS Linux Administrator
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-BASIS-Linux-Administrator/1441108033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-BASIS-Linux-Administrator/1441108033/)
 - **Location:** România
 - **Status:** scraped
 
@@ -472,15 +460,21 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior System Engineer
+### SAP Basis Administrator
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-Senior-System-Engineer/1429766233/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-Senior-System-Engineer/1429766233/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Basis-Administrator/1441112533/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-Basis-Administrator/1441112533/)
 - **Location:** România
 - **Status:** scraped
 
-### SSAP BTP CAP Java Developer
+### SAP BASIS Linux Administrator
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-SSAP-BTP-CAP-Java-Developer/1429778233/](https://careers.nttdata.ro/nttdataromania/job/Remote-SSAP-BTP-CAP-Java-Developer/1429778233/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-BASIS-Linux-Administrator/1441108033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-SAP-BASIS-Linux-Administrator/1441108033/)
+- **Location:** România
+- **Status:** scraped
+
+### Senior System Engineer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Sibiu-Senior-System-Engineer/1429766233/](https://careers.nttdata.ro/nttdataromania/job/Sibiu-Senior-System-Engineer/1429766233/)
 - **Location:** România
 - **Status:** scraped
 
@@ -490,21 +484,27 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
+### SSAP BTP CAP Java Developer
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-SSAP-BTP-CAP-Java-Developer/1429778233/](https://careers.nttdata.ro/nttdataromania/job/Remote-SSAP-BTP-CAP-Java-Developer/1429778233/)
+- **Location:** România
+- **Status:** scraped
+
 ### Senior Full Stack Software Engineer with AI Expertise (Angular/Spring Boot)
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Full-Stack-Software-Engineer-with-AI-Expertise-%28AngularSpring-Boot%29/1440481033/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Senior-Full-Stack-Software-Engineer-with-AI-Expertise-%28AngularSpring-Boot%29/1440481033/)
 - **Location:** Brasov
 - **Status:** scraped
 
-### Senior AI Full-Stack Engineer (Node.JS)
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Node_JS%29/1440210633/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Node_JS%29/1440210633/)
-- **Location:** România
-- **Status:** scraped
-
 ### QA  Automation Engineer with GCP
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-QA-Automation-Engineer-with-GCP/1440137933/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-QA-Automation-Engineer-with-GCP/1440137933/)
+- **Location:** România
+- **Status:** scraped
+
+### Senior AI Full-Stack Engineer (Node.JS)
+
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Node_JS%29/1440210633/](https://careers.nttdata.ro/nttdataromania/job/Cluj-Senior-AI-Full-Stack-Engineer-%28Node_JS%29/1440210633/)
 - **Location:** România
 - **Status:** scraped
 
@@ -526,26 +526,14 @@ _Generated: 2026-10-16T10:59:20.005Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior Embedded Developer QNX/Linux
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-Senior-Embedded-Developer-QNXLinux/1428551133/](https://careers.nttdata.ro/nttdataromania/job/Remote-Senior-Embedded-Developer-QNXLinux/1428551133/)
-- **Location:** România
-- **Status:** scraped
-
 ### Product Owner Lead
 
 - **URL:** [https://careers.nttdata.ro/nttdataromania/job/Brasov-Product-Owner-Lead/1424357933/](https://careers.nttdata.ro/nttdataromania/job/Brasov-Product-Owner-Lead/1424357933/)
 - **Location:** România
 - **Status:** scraped
 
-### Requirements Engineer (Sparta)
+### Senior Embedded Developer QNX/Linux
 
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Requirements-Engineer-%28Sparta%29/1428407533/](https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Requirements-Engineer-%28Sparta%29/1428407533/)
-- **Location:** România
-- **Status:** scraped
-
-### QA Engineer with German
-
-- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-German/1438451733/](https://careers.nttdata.ro/nttdataromania/job/Cluj-QA-Engineer-with-German/1438451733/)
+- **URL:** [https://careers.nttdata.ro/nttdataromania/job/Remote-Senior-Embedded-Developer-QNXLinux/1428551133/](https://careers.nttdata.ro/nttdataromania/job/Remote-Senior-Embedded-Developer-QNXLinux/1428551133/)
 - **Location:** România
 - **Status:** scraped
