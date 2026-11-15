@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.19-21 |
 | Website | [https://ro.nttdata.com](https://ro.nttdata.com) |
 | Careers | [https://ro.nttdata.com/career](https://ro.nttdata.com/career) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
 ## Current Job Listings (87)
 
-_Generated: 2026-11-14T15:07:07.278Z_
+_Generated: 2026-11-15T13:40:01.019Z_
 
 ### Validation Test Engineer - Automotive-based in Craiova
 
