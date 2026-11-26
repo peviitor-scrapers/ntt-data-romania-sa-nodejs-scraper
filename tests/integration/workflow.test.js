@@ -16,14 +16,10 @@ async function checkApiAvailability() {
 
 async function checkAnafAvailability() {
   try {
-    // Probe the official ANAF endpoint: the last link of the company-data fallback chain.
-    const res = await fetch('https://webservicesp.anaf.ro/api/PlatitorTvaRest/v9/tva', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify([{ cui: 5665609, data: new Date().toISOString().slice(0, 10) }]),
-      signal: AbortSignal.timeout(10000)
-    });
-    return res.ok;
+    // Probe the chain the scraper really uses (demoanaf -> cuiscan): the official ANAF endpoint
+    // can be up while both of those are down (they answer an HTML error page).
+    const { getCompanyFromANAF } = await import('../../scraper/company-data.js');
+    return !!(await getCompanyFromANAF(5665609));
   } catch {
     return false;
   }
